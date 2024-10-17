@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "pAyx3IZwwpc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ikers\\source\\repos\\cosmos1\\cosmos1\\cosmos1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ikers\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20241016024420\\cosmos.build.0.1.0-localbuild20241016024420.nupkg.sha512",
+    "C:\\Users\\ikers\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20241016024444\\cosmos.common.0.1.0-localbuild20241016024444.nupkg.sha512",
+    "C:\\Users\\ikers\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20241016024444\\cosmos.core.0.1.0-localbuild20241016024444.nupkg.sha512",
+    "C:\\Users\\ikers\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20241016024444\\cosmos.debug.kernel.0.1.0-localbuild20241016024444.nupkg.sha512",
+    "C:\\Users\\ikers\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20241016024444\\cosmos.hal2.0.1.0-localbuild20241016024444.nupkg.sha512",
+    "C:\\Users\\ikers\\.nuget\\packages\\cosmos.plugs\\0.1.0-localbuild20241016024444\\cosmos.plugs.0.1.0-localbuild20241016024444.nupkg.sha512",
+    "C:\\Users\\ikers\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20241016024444\\cosmos.system2.0.1.0-localbuild20241016024444.nupkg.sha512",
+    "C:\\Users\\ikers\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20241016024444\\il2cpu.api.0.1.0-localbuild20241016024444.nupkg.sha512"
+  ],
+  "logs": []
+}

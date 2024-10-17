@@ -1,0 +1,12 @@
+C:\Users\ikers\source\repos\cosmos1\cosmos1\bin\Debug\net6.0\cosmos1.deps.json
+C:\Users\ikers\source\repos\cosmos1\cosmos1\bin\Debug\net6.0\cosmos1.dll
+C:\Users\ikers\source\repos\cosmos1\cosmos1\bin\Debug\net6.0\cosmos1.pdb
+C:\Users\ikers\source\repos\cosmos1\cosmos1\obj\Debug\net6.0\cosmos1.csproj.AssemblyReference.cache
+C:\Users\ikers\source\repos\cosmos1\cosmos1\obj\Debug\net6.0\cosmos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikers\source\repos\cosmos1\cosmos1\obj\Debug\net6.0\cosmos1.AssemblyInfoInputs.cache
+C:\Users\ikers\source\repos\cosmos1\cosmos1\obj\Debug\net6.0\cosmos1.AssemblyInfo.cs
+C:\Users\ikers\source\repos\cosmos1\cosmos1\obj\Debug\net6.0\cosmos1.csproj.CoreCompileInputs.cache
+C:\Users\ikers\source\repos\cosmos1\cosmos1\obj\Debug\net6.0\cosmos1.dll
+C:\Users\ikers\source\repos\cosmos1\cosmos1\obj\Debug\net6.0\refint\cosmos1.dll
+C:\Users\ikers\source\repos\cosmos1\cosmos1\obj\Debug\net6.0\cosmos1.pdb
+C:\Users\ikers\source\repos\cosmos1\cosmos1\obj\Debug\net6.0\ref\cosmos1.dll
