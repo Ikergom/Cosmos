@@ -1,1 +1,7 @@
+Las carpetas que no tienes que tener en cuenta son las siguientes.
 
+La primera carpeta que no tienes que tener en cuenta es la carpeta .vs ya que a la que ejecutes tu programa se te creeara la tuya propia
+
+La segunda carpeta que tampoco tienes que tener en cuenta es la de obj
+
+Y por ultimo no tienes que tener en cuenta la carpeta de bin
