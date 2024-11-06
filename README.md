@@ -35,7 +35,7 @@
 - `1` :Una vez ya tenemos todo entramos en el Visual Studio 2022 y le damos a **Crear proyecto**
 - `2` :Tenemos que darle a la opcion de **Cosmos Kernel #C**
 
-# Help
+# :gear: Help :gear:
 - `1` :cp <ruta-nombre-fichero-copiar> <ruta-nombre-destino>: Copia el archivo a otra ruta .
 - `2` :cat  <ruta-nombre-archivo>:  Muestra el contenido del archivo .
 - `3` :touch  <nombre-del-archivo>:  Crea un nfichero nuevo .
