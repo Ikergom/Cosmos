@@ -1,7 +1,8 @@
-Las carpetas que no tienes que tener en cuenta son las siguientes.
+#Tenemos que tener en cuente que todo esto es lo ue no se tiene que instalar.
+#La vs es la carpeta que se crea automatica al ejecutar tu proyecto cada uno tendra la suya personal.
+.\Cosmos\vs 
 
-La primera carpeta que no tienes que tener en cuenta es la carpeta .vs ya que a la que ejecutes tu programa se te creeara la tuya propia
+#Tampoco tenemos que tener en cuenta la carpeta bin y la obj.
 
-La segunda carpeta que tampoco tienes que tener en cuenta es la de obj
-
-Y por ultimo no tienes que tener en cuenta la carpeta de bin
+.\Cosmos\cosmos1\bin
+.\Cosmos\cosmos1\obj
