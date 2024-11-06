@@ -28,4 +28,11 @@
 - `2` :Si nos da error lo que tenemos que hacer es entrar al cmd como administrador.
 - `3` :Dentro del cmd temeos que poner **net localgroup /add "Users"**.
 - `4` :Si todavia no te deja tendras que probar con las siguientes dos comandas.
-- `5` :Comando **net localgroup /add "Authenticated "Users"** y ****
+- `5` :Comando **net localgroup /add "Authenticated "Users"** y **net localgroup /add "Administrators"**
+   ### Visual Studio 22
+
+- `1` :Una vez ya tenemos todo entramos en el Visual Studio 2022 y le damos a **Crear proyecto**
+- `2` :Tenemos que darle a la opcion de **Cosmos Kernel #C**
+
+
+
