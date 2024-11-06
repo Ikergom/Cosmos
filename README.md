@@ -30,11 +30,24 @@
 - `4` :Si todavia no te deja tendras que probar con las siguientes dos comandas.
 - `5` :Comando **net localgroup /add "Authenticated "Users"** y **net localgroup /add "Administrators"**
 
-## Visual Studio 22
+## Crear Proyecto
 
 - `1` :Una vez ya tenemos todo entramos en el Visual Studio 2022 y le damos a **Crear proyecto**
 - `2` :Tenemos que darle a la opcion de **Cosmos Kernel #C**
-- `3` :Una vez ya estamos dentro lo que tenemos que hacer es activar el VmWare
+
+# Help
+- `1` :cp <ruta-nombre-fichero-copiar> <ruta-nombre-destino>: Copia el archivo a otra ruta .
+- `2` :cat  <ruta-nombre-archivo>:  Muestra el contenido del archivo .
+- `3` :touch  <nombre-del-archivo>:  Crea un nfichero nuevo .
+- `4` :touch  <nombre-fichero> : Actualiza la fecha de edicion .
+- `5` :rm  <nombre-del-archivo>:  Elimina el fichero .
+- `6` :cd  <ruta-nombre-carpeta-> : Vas a la carpeta .
+- `7` :nano <ruta-nombre-fichero> : Para entrar y modificar el fichero .
+- `8` :ls <ruta-nombre-carpeta> : Te muestra el contenido de esa carpeta .
+- `9` :ls -l <ruta-nombre-carpeta> : Lo mismo que ls pero con detalles (Permisos,Espacio) .
+- `10`:ls -a <ruta-nombre-carpeta> : Lo mismo que ls pero tambien te mustra los que estan ocultos .
+- `11`:mkdir <nombre-carpeta> : Crea una carpeta .
+- `12`:rmdir <nombre-carpeta> : Elimina la carpeta .
 
 
 
