@@ -1,6 +1,8 @@
-Lo primero quje tenemos que tener en cuenta son las aplicaciones que nos tenemos que instalar.
+### :gear: COSMOS :gear:
+
 ## Aplicaciones a descargar
 - `1`: Descargamos el Visual Studio 2022.-
 - `2`: Tambien tendremos que instalar l'SDK de .NET 6.0.-
-- `3`: Mas adelante tambien necesitaremos -
-- `4`: descripción de la funcionalidad 3
+- `3`: Tambien tenemos que tener cuenta en GitHub -
+- `4`: Mas adelante tambien necesitaremos el VmWare -
+
