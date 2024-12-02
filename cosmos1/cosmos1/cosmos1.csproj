@@ -13,11 +13,22 @@
         <StartCosmosGDB>False</StartCosmosGDB>
         <VisualStudioDebugPort>Pipe: Cosmos\Serial</VisualStudioDebugPort>
         <CosmosDebugPort>Serial: COM1</CosmosDebugPort>
-        <Launch>VMware</Launch>
+        <Launch>ISO</Launch>
         <Profile>VMware</Profile>
         <Description>Use VMware Player or Workstation to deploy and debug.</Description>
         <PxeInterface>192.168.0.8</PxeInterface>
+        <DebugEnabled>False</DebugEnabled>
+        <CompressionType>Gzip</CompressionType>
     </PropertyGroup>
+
+    <ItemGroup>
+      <None Remove="Carte Blanq &amp; Maxx Power - 33 Max Verstappen %28Official Audio%29.wav" />
+      <None Remove="music.wav" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Include="music.wav" />
+    </ItemGroup>
 
     <ItemGroup>
         <PackageReference Include="Cosmos.Build" Version="0-*" NoWarn="NU1604" />
